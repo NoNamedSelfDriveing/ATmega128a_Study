@@ -1,7 +1,7 @@
 ATmega 128a Pin
 ---------------
 
-> ATmega128a Datasheet (http://www.atmel.com/Images/Atmel-8151-8-bit-AVR-ATmega128A_Datasheet.pdf\)
+> ATmega128a Datasheet (http://www.atmel.com/Images/Atmel-8151-8-bit-AVR-ATmega128A_Datasheet.pdf)
 
 1.	RESET (핀 20)
 	-	입력 단자로 1레벨이 입력되면 리셋되어 PC(Program Counter)는 일반적으로 0번지를 가르키고 0번지부터 프로그램이 시작
