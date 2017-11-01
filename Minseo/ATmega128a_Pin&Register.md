@@ -1,4 +1,4 @@
-ATmega 128a Pin
+ATmega 128a Pin&Reigster
 ---------------
 
 > ATmega128a Datasheet (http://www.atmel.com/Images/Atmel-8151-8-bit-AVR-ATmega128A_Datasheet.pdf)
