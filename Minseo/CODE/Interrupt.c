@@ -26,8 +26,8 @@ int main(void)
 	SREG  |= 0x80;
 	  
     while (1)
-	{
-		PORTD = 0x00;
-	}
+    {
+	PORTD = 0x00;
+    }
 }
 
